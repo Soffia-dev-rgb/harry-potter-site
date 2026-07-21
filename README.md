@@ -1,12 +1,13 @@
-# harry-potter-site
-Projeto de estudo: página com tema Harry Potter usando HTML e CSS.
+# Harry Potter Website
 
-## Tecnologias
-- HTML
-- CSS
+Study project: page with a Harry Potter theme using HTML and CSS.
 
-## Como visualizar
-Baixe os arquivos e abra `index.html` em qualquer navegador.
+## Technologies
+- HTML  
+- CSS  
 
-## Objetivo
-Este projeto foi criado para praticar conceitos básicos de HTML e CSS, como estrutura de páginas, estilização e inserção de imagens.
+## How to view
+Download the files and open `index.html` in any web browser.
+
+## Purpose
+This project was created to practice basic HTML and CSS concepts, such as page structure, styling, and image insertion.
