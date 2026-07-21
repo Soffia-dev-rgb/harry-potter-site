@@ -1,0 +1,49 @@
+.titulo{ 
+        font-size: 40px;
+        font-family:serif; 
+        margin-left:10% ;
+        margin-right: 10%;
+        text-align:center;
+        margin-top: 5%;
+        color:goldenrod;
+        margin-bottom: 5%;
+        background-color: #011C6B;
+         border-radius:20px;
+         padding-bottom: 1%;
+         padding-top: 1%;
+         font-weight:bolder
+         
+
+    }
+
+    .subtitulo{
+        font-size: 35px;
+        margin-left:15%;
+        margin-top: 2%;
+        color:goldenrod;
+        margin-top: 5%;
+        font-family: serif;
+        font-weight:bolder
+
+    }
+    .texto{
+        display:flex;
+        font-size: 20px;
+        font-family: cursive;
+        margin-top: 2% ;
+        margin-left: 10%;
+        margin-right:10% ;
+        background-color:#011C6B;
+        line-height:150%;
+        color:gold;
+        padding-left:5%;
+        padding-right:5%;
+        border-radius:20px;
+        padding-top: 2%;
+    }
+    .img{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        margin-left: 2%;
+        
+    }
